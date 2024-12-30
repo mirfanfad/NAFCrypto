@@ -17,7 +17,8 @@ To install NAFCrypto, clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/yourusername/NAFCrypto.git
 cd NAFCrypto
-npm install
+bun install
+bun start
 ```
 
 ## Usage
